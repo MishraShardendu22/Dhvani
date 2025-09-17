@@ -1,5 +1,5 @@
 # Comprehensive Health Management Platform
-
+ 
 ## 1. Overview
 
 This project is a multi-faceted health management platform designed to provide a wide range of services to users, healthcare organizations, and administrators. It integrates several backend microservices built with Go, Node.js, and Python, along with a React-based frontend. The platform offers features like user and organization management, blood bank operations, an AI-powered chatbot, AI-driven medical image analysis (including TB detection), and personalized nutrition advice.
